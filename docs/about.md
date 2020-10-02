@@ -18,6 +18,7 @@ Write it in first (I) or third (Your Name Here) person.
 > Don't know what to write? Get a good friend to help! Set some time aside to soundboard.
 
 ## Current Role
+I am a Peer Academic Leader at the Academic Success Center at Southern Connecticut State University for Programming Fundamentals (Python) and Computer Systems
 
 Grace Hopper Celebration Attendee
 
